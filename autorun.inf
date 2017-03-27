@@ -1,0 +1,8 @@
+[Autorun]
+shellexecute=start.html
+icon=Docs\de10-nano.ico
+label=DE10-Nano
+action=Open DE10-nano
+
+[DeviceInstall]
+DriverPath=Drivers\Windows\RNDIS
